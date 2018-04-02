@@ -1,2 +1,2 @@
 # scrape-shorpy
-Simple webscraper for Shorpy
+Simple webscraper for Shorpy.
